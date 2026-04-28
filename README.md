@@ -1,184 +1,94 @@
 <div align="center">
 
-# Hey, I'm Enock Humure 👋
-
-### Junior Software Developer · Full-Stack · Backend · Data
-
-*Building scalable applications, clean APIs, and data-driven solutions — one commit at a time.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1a237e&height=120&section=header&text=Enock%20Humure&fontSize=40&fontColor=ffffff&fontAlignY=65&desc=Junior%20Software%20Developer&descSize=16&descAlignY=85&descColor=c5cae9" width="100%"/>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🚀_Portfolio-000000?style=for-the-badge&logoColor=white)](https://inockportfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/notnow134234/)
-[![GitHub](https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logoColor=white)](https://github.com/EnockHumure)
-[![LeetCode](https://img.shields.io/badge/🧠_LeetCode-FFA116?style=for-the-badge&logoColor=white)](https://leetcode.com/u/coach_Humure/)
-[![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logoColor=white)](mailto:humureenock@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://inockportfolio.netlify.app/)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/notnow134234/)&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/coach_Humure/)&nbsp;
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:humureenock@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### 👋 Hey there!
 
-I'm a Junior Software Developer based in **Kigali, Rwanda** 🇷🇼, focused on building
-full-stack applications, backend systems, and data-driven solutions.
+I'm a **Full-Stack & Backend Developer** based in **Kigali, Rwanda 🇷🇼**
 
-- 🔭 Currently training at **A2SV (Africa to Silicon Valley)** — sharpening algorithms & system design
-- 🛠️ I build with **JavaScript, Node.js, Spring Boot, Python & PostgreSQL**
-- 🧠 Solved **50+ algorithmic challenges** on LeetCode, Codeforces & HackerRank
-- 💡 Passionate about **clean code, scalable architecture**, and solving real-world problems
+> Building scalable apps, clean APIs, and data-driven solutions — one commit at a time.
+
+- 🎯 Training @ **A2SV** — algorithms, system design & engineering fundamentals
+- 🛠️ Stack: **JavaScript · Node.js · Spring Boot · Python · PostgreSQL**
+- 🧠 **50+ problems** solved on LeetCode, Codeforces & HackerRank
+- 🤝 Mentored **10+ students** in tech & career development
 
 ---
 
-## ⚡ Tech Stack
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
+### ⚡ Tech Stack
 
 **💻 Languages & Frontend**
-```
-JavaScript   ████████████░░  90%
-Python       ███████████░░░  85%
-Java         █████████░░░░░  70%
-HTML5 / CSS3 ████████████░░  90%
-```
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **⚙️ Backend & APIs**
-```
-Node.js      ███████████░░░  85%
-Spring Boot  ████████░░░░░░  65%
-REST APIs    ████████████░░  90%
-```
 
-</td>
-<td valign="top" width="50%">
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
 
 **🗄️ Databases**
-```
-PostgreSQL   ████████████░░  88%
-MySQL        ████████░░░░░░  65%
-```
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **🛠️ Tools & DevOps**
-```
-Git & GitHub  ████████████░░  90%
-Maven         ████████░░░░░░  65%
-Postman       ███████████░░░  80%
-Power BI      █████████░░░░░  72%
-VS Code / IntelliJ  ██████████░░  80%
-```
 
-</td>
-  </tr>
-</table>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🛒 Simba Supermarket System
-Full-stack supermarket management system with product catalog, transaction tracking, and frontend/backend integration.
-
-[![View Project](https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/EnockHumure/simba-supermarket)
-`JavaScript` `Node.js` `PostgreSQL`
+| &nbsp; | Project | Stack | Link |
+|---|---|---|---|
+| 🛒 | **Simba Supermarket System** — Full-stack store management | `JS` `Node.js` `PostgreSQL` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/EnockHumure/simba-supermarket) |
+| 📊 | **Big Data Injury Analysis** — Data pipeline & BI dashboards | `Python` `Power BI` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/EnockHumure/bigdata-injury-analysis) |
+| 🏥 | **Patient Disease Tracking (PDTAS)** — Healthcare analytics | `PostgreSQL` `Spring Boot` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/EnockHumure/Patient-Disease-Tracking-Analytics-System-PDTAS-) |
+| 💰 | **Personal Finance Tracker** — Budget & expense management | `JS` `Node.js` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/EnockHumure/personal_tracker_finances) |
+| 📅 | **Schedule Planner** — Task & time management app | `JS` `HTML5` `CSS3` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/EnockHumure/schedure-planner) |
 
 ---
 
-### 📊 Big Data Injury Analysis
-Data analysis and visualization pipeline for large-scale injury datasets, powered by Python and Power BI dashboards.
+### 🎓 Education & Experience
 
-[![View Project](https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/EnockHumure/bigdata-injury-analysis)
-`Python` `Power BI` `Pandas`
-
----
-
-### 💰 Personal Finance Tracker
-Income and expense tracker with budget planning, category management, and financial summary reports.
-
-[![View Project](https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/EnockHumure/personal_tracker_finances)
-`JavaScript` `Node.js` `PostgreSQL`
-
-</td>
-<td width="50%" valign="top">
-
-### 🏥 Patient Disease Tracking System
-PostgreSQL-based healthcare data management system for tracking patient records, disease history, and generating analytics.
-
-[![View Project](https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/EnockHumure/Patient-Disease-Tracking-Analytics-System-PDTAS-)
-`PostgreSQL` `Java` `Spring Boot`
+| | |
+|---|---|
+| 🏢 **A2SV** — Software Engineering Trainee | `Jan 2026 – Present` |
+| 🎓 **AUCA** — BSc. Software Engineering | `Graduated` |
+| 🏫 **Saint Joseph** — Physics · Chemistry · Maths | `Completed` |
 
 ---
-
-### 📅 Schedule Planner App
-Task and schedule management application with intuitive UI, task prioritization, and persistent storage.
-
-[![View Project](https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/EnockHumure/schedure-planner)
-`JavaScript` `HTML5` `CSS3`
-
-</td>
-  </tr>
-</table>
-
----
-
-## 🧠 Problem Solving
 
 <div align="center">
 
-| Platform | Solved | Focus Areas |
-|:---:|:---:|:---:|
-| 🟡 LeetCode | 50+ | Arrays, Trees, Graphs |
-| 🔵 Codeforces | Active | Dynamic Programming |
-| 🟢 HackerRank | Active | Algorithms, Data Structures |
+**Let's build something great together 🚀**
 
-[![LeetCode Profile](https://img.shields.io/badge/View_LeetCode_Profile-FFA116?style=for-the-badge&logoColor=white)](https://leetcode.com/u/coach_Humure/)
+[![Email](https://img.shields.io/badge/humureenock@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:humureenock@gmail.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/notnow134234/)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://inockportfolio.netlify.app/)
 
-</div>
-
----
-
-## 🎓 Education
-
-| 🏫 Institution | 📚 Program | 📅 Period |
-|---|---|---|
-| **A2SV — Africa to Silicon Valley** | Software Engineering Student | Jan 2026 – Present |
-| **AUCA — Adventist University of Central Africa** | BSc. Software Engineering | present |
-| **Saint Joseph Secondary School** | Physics · Chemistry · Mathematics | Completed |
-
----
-
-## 💼 Experience & Volunteering
-
-**🏢 A2SV — Software Engineering Trainee** *(Jan 2026 – Present)*
-> Intensive training in algorithms, system design, and collaborative engineering. Daily problem-solving, code reviews, and peer programming sessions.
-
-**🤝 Tech Mentor — Community Volunteer**
-> Mentored **10+ students** in technology fundamentals, career pathways, and early-stage software development. Helped learners build their first projects and portfolios.
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-*Open to collaborations, open-source contributions, and exciting opportunities.*
-
-<br/>
-
-[![Email](https://img.shields.io/badge/📧_humureenock@gmail.com-EA4335?style=for-the-badge)](mailto:humureenock@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/notnow134234/)
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-000000?style=for-the-badge)](https://inockportfolio.netlify.app/)
-[![GitHub](https://img.shields.io/badge/💻_Follow_on_GitHub-181717?style=for-the-badge)](https://github.com/EnockHumure)
-
-<br/>
-
----
-
-<sub>⚡ Crafted with passion from Kigali, Rwanda 🇷🇼 · Always building, always learning</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1a237e&height=80&section=footer" width="100%"/>
 
 </div>
