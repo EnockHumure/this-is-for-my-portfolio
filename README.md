@@ -147,7 +147,7 @@ Task and schedule management application with intuitive UI, task prioritization,
 | 🏫 Institution | 📚 Program | 📅 Period |
 |---|---|---|
 | **A2SV — Africa to Silicon Valley** | Software Engineering Student | Jan 2026 – Present |
-| **AUCA — Adventist University of Central Africa** | BSc. Software Engineering | Graduated |
+| **AUCA — Adventist University of Central Africa** | BSc. Software Engineering | present |
 | **Saint Joseph Secondary School** | Physics · Chemistry · Mathematics | Completed |
 
 ---
