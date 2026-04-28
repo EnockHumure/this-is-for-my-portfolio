@@ -76,7 +76,7 @@ I'm a **Full-Stack & Backend Developer** based in **Kigali, Rwanda 🇷🇼**
 | | |
 |---|---|
 | 🏢 **A2SV** — Software Engineering Trainee | `Jan 2026 – Present` |
-| 🎓 **AUCA** — BSc. Software Engineering | `Graduated` |
+| 🎓 **AUCA** — BSc. Software Engineering | `Present` |
 | 🏫 **Saint Joseph** — Physics · Chemistry · Maths | `Completed` |
 
 ---
